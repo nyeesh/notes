@@ -1,6 +1,5 @@
-1. bowl
-2. spoon
-3. bottle
-4. phone
-5. table
-6. house
+bowl
+spoon
+bottle
+phone
+
