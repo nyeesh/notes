@@ -3,3 +3,4 @@ spoon
 barang
 phone
 fon
+barang yang bagus skli
